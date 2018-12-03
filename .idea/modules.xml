@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallDemo.iml" filepath="$PROJECT_DIR$/CallDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRDemo/jrdemo.iml" filepath="$PROJECT_DIR$/JRDemo/jrdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrsdk/jrsdk.iml" filepath="$PROJECT_DIR$/jrsdk/jrsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+    </modules>
+  </component>
+</project>

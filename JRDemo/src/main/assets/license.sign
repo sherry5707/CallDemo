@@ -1,0 +1,31 @@
+[Licensee]
+Activation=yes
+AppID=com.chinaunicom.academy.vowifi.android
+Offline=yes
+
+[Module]
+
+[AudioCodec]
+PCMU=yes
+PCMA=yes
+GSM=yes
+G722=yes
+G729=yes
+iLBC=yes
+AMR=yes
+AMR-WB=yes
+iSAC=yes
+opus=yes
+
+[VideoCodec]
+H263=yes
+H264=yes
+H264-SVC=yes
+VP8=yes
+
+[Devices]
+
+
+Juphoon Co. Ltd. Sign Data
+s;]úàÁø…I(WB{¦$œ ë0mñ=2fÁÅ!#aœUØn\P€{j2¥Ç5Kö„8ò€ …ÖíùT)ƒ·)‰µ™­(¬-ç"Zetˆ¦ê"ğ×¦upu3²ccp¿´7R®[ü~ÏµHVŞX™Í®çF~JÑæ¿…óJY_Q4å™\Ò@Æñş6ÕÊïä#ãJÑò—±¼Àf¢àÓğX£Ö t€äæ´)…´¥nşba÷}ŞğÃ„RRª$pJ
+ÜÉ¹€tÛÊ‹Şæ•æÇ}”ñÂ×Xy.‰-’Ş7ÒDSRı#âÆÔÕÔ­¨—.›Ç{ÍJÜ;lœ

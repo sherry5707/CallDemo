@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aicong/Downloads/call/CallDemo/libs/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/aicong/.android/build-cache/58df0d85cf5c683f0726599ae2942bc9bd4ed0a5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/aicong/Downloads/call/CallDemo/libs/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/aicong/.android/build-cache/58df0d85cf5c683f0726599ae2942bc9bd4ed0a5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/aicong/Downloads/call/CallDemo/libs/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/aicong/.android/build-cache/58df0d85cf5c683f0726599ae2942bc9bd4ed0a5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/aicong/Downloads/call/CallDemo/libs/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/aicong/.android/build-cache/58df0d85cf5c683f0726599ae2942bc9bd4ed0a5/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/aicong/Downloads/call/CallDemo/libs/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/aicong/.android/build-cache/58df0d85cf5c683f0726599ae2942bc9bd4ed0a5/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/aicong/Downloads/call/CallDemo/libs/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/aicong/.android/build-cache/58df0d85cf5c683f0726599ae2942bc9bd4ed0a5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]
